@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yelan-tao/)
 [![Website](https://img.shields.io/badge/Website-181717?style=flat&logo=GitHub&logoColor=white)](https://glanfaloth.github.io/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=flat&logo=Duolingo&logoColor=white)](https://preview.duolingo.com/profile/glanfaloth)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yelan-tao/)
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/glanfaloth_cevnas/)
- -->
+[![Lichess](https://img.shields.io/badge/Lichess-000000?style=flat&logo=Lichess&logoColor=white)](https://lichess.org/@/glanfaloth)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/glanfaloth_cevnas/)
+
 - 🏛 I’m currently studying at ETH Zurich and 42 Lausanne
 - 🔭 I'm interested in astronomy and want to explore the universe
 - 👽 I'd be happy to make friends with aliens. Don't hesitate to contact me if you come from another planet!
