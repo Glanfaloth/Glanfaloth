@@ -8,7 +8,7 @@
 
 - 🏛 I’m currently studying at ETH Zurich and 42 Lausanne
 
-[![Piscine](https://badge42.vercel.app/api/v2/cl75w8j7500060gmr6xzkcqyh/stats?cursusId=9&coalitionId=piscine)](https://profile.intra.42.fr/users/ytao)[![42Cursus](https://badge42.vercel.app/api/v2/cl75w8j7500060gmr6xzkcqyh/stats?cursusId=21&coalitionId=191)](https://profile.intra.42.fr/users/ytao)
+<!-- [![Piscine](https://badge42.vercel.app/api/v2/cl75w8j7500060gmr6xzkcqyh/stats?cursusId=9&coalitionId=piscine)](https://profile.intra.42.fr/users/ytao)[![42Cursus](https://badge42.vercel.app/api/v2/cl75w8j7500060gmr6xzkcqyh/stats?cursusId=21&coalitionId=191)](https://profile.intra.42.fr/users/ytao) -->
 - 🔭 I'm interested in astronomy and want to explore the universe
 - 👽 I'd be happy to make friends with aliens. Don't hesitate to contact me if you come from another planet!
 
